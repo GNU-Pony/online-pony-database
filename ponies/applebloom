@@ -4,7 +4,7 @@
 (colour (coat yellow)
 	(mane red)
 	(eye orange)
-	(bow (. pink red))
+	(bow (. pink red)))
 (cutie .)
 (appearance (1 (focus 1 9 12..13 17..18 23)
 	       (background 7 20 24))

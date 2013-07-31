@@ -6,3 +6,5 @@
 	(eye green)
 	(hat brown))
 (cutie red apple single)
+(appearance (1 (focus 21))
+	    (3 (background 8)))

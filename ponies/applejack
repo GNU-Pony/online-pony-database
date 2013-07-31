@@ -10,4 +10,4 @@
 	       (background 20))
 	    (2 (focus 1..16 20..21 23..26)
 	       (background 18))
-	    (3 (focus 1..13))
+	    (3 (focus 1..13)))

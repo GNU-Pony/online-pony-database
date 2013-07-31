@@ -1,0 +1,73 @@
+Strings strings with whitespace or brackets are required to be in quotes.
+
+(name ($LANGUAGE_ISO_639-1 $FULL_NAME))
+(nickname $NICKNAME...)
+(kind $KIND...)
+(group $GROUP)
+(colour ($BODYPART $COLOUR)...)
+(cutie $CUTIE_MARK)
+(appearance $APPEARANCE...)
+(transformation $TRANSFORMATION...)
+
+
+
+values for TRANSFORMATION: ($KIND_FULL $TRANSFORMATION_TIME...)
+
+values for TRANSFORMATION_TIME: (during $EPISODE_TIME)
+       	   		        (from $EPISODE_TIME)
+				(from $EPISODE_TIME) (to $EPISODE_TIME)
+
+values for APPEARANCE: ($SERIES_NO ($APPEARANCE_TYPE $EPISODE_RANGE)...)
+
+values for APPEARANCE_TYPE: focus
+			    background
+			    mention
+
+(ignore mention if in background or in focus, and ignore background if in focus)
+
+values for EPISODE_RANGE: $EPISODE_NO
+			  $EPISODE_NO..$EPISODE_NO
+
+values for CUTIE_MARK: .
+		       $CUTIE_MARK_COMPONENT...
+
+values for COLOUR: $REAL_COLOUR
+       	   	   ($COLOUR_ALIAS $REAL_COLOUR...)
+
+values for REAL_COLOUR: $SIMPLE_COLOUR
+			(. $ACTUAL_COLOUR $SIMPLE_COLOUR...)
+
+values for BODYPART: coat
+       	   	     mane
+		     eye
+		     eyeshadow
+		     aura
+
+values for GROUP: mare
+                  filly
+		  stallion
+		  colt
+		  male
+		  female
+
+values for KIND: KIND_FULL
+                 $TIME $KIND_FULL
+
+valuse for KIND_FULL: $KIND_PART
+                     ($KIND_PART...)
+
+values for KIND_PART: earth
+		      pegasus
+		      unicorn
+		      flutter
+		      sea
+		      crystal
+
+values for TIME: $SERIES_NO
+       	         $EPISODE_TIME
+
+value for EPISODE_TIME:
+                 $SERIES_NO $EPISODE_NO
+                 $SERIES_NO $EPISODE_NO beginning
+                 $SERIES_NO $EPISODE_NO end
+

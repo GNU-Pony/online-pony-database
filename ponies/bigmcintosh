@@ -6,4 +6,4 @@
 	(mane orange)
 	(eye green)
 	(hoof (. beige yellow)))
-(cutie green apple hive)
+(cutie green apple hive single)

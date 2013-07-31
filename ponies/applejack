@@ -5,7 +5,7 @@
 (colour (coat orange)
 	(mane yellow)
 	(eye green))
-(cutie apple)
+(cutie red apple)
 (appearance (1 (focus 1..16 18..19 21..26)
 	       (background 20))
 	    (2 (focus 1..16 20..21 23..26)

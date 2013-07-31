@@ -5,6 +5,7 @@
 (colour (coat pink)
 	(mane pink)
 	(eye blue))
+(cutie balloon)
 (appearance (1 (focus 1..5 7 9..16 19..26)
 	       (background 6))
 	    (2 (focus 1..4 6..11 13..16 18..21 23..26))

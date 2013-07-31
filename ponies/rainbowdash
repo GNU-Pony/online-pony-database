@@ -5,6 +5,7 @@
 (colour (coat orange)
 	(mane (rainbow (. violet purple lilac) blue green yellow orange red))
 	(eye (. cerise purple)))
+(cutie rainbow lightning cloud)
 (appearance (1 (focus 1..7 9..14 16 19 21..26)
 	       (background 18 20)
 	       (mention 15))

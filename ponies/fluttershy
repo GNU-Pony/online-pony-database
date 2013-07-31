@@ -4,6 +4,7 @@
 (colour (coat yellow)
 	(mane pink)
 	(eye cyan))
+(cutie buttterly)
 (appearance (1 (focus 1..5 7 9..11 13..17 19..26)
 	       (background 6))
 	    (2 (focus 1..4. 7..11 13..16 19..26)

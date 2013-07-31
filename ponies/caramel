@@ -1,0 +1,7 @@
+(name (en Caramel))
+(kind earth)
+(group stallion)
+(colour (coat (. amber orange))
+	(mane brown)
+	(eye (. blue cyan)))
+(cutie blue horseshoe)

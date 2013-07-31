@@ -1,0 +1,8 @@
+(name (en Braeburn))
+(kind earth)
+(group stallion)
+(colour (coat orange)
+	(mane (. amber orange))
+	(eye green)
+	(hat brown))
+(cutie red apple single)

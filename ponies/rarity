@@ -3,7 +3,7 @@
 (kind pegasus)
 (group mare)
 (colour (coat white)
-	(mane (. ubdigue purple lilac))
+	(mane (. indigo purple lilac))
 	(eye (. azure blue))
 	(eyeshadow blue)
 	(aura (1 pink) (2 blue)))

@@ -4,6 +4,7 @@
 (colour (coat white)
 	(mane pink)
 	(eye green)
+	(aura green))
 (cutie .)
 (appearance (1 (focus 12 17..18 23..24)
 	       (background 1))

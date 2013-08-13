@@ -1,0 +1,8 @@
+(name (en "Photo Finish"))
+(kind earth)
+(group mare)
+(colour (coat (. cyan blue))
+	(mane white)
+	(eye (. indigo purple violet)))
+(cutie star)
+(appearance (1 (focus 20)))

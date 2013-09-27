@@ -1,0 +1,7 @@
+(name (en "Sapphire Shores"))
+(kind earth)
+(group mare)
+(colour (coat yellow)
+	(mane blue)
+	(eye (. amber orange))
+(appearance (1 (focus 19)))

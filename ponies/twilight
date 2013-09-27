@@ -1,6 +1,6 @@
 (name (en "Twilight Sparkle"))
 (nickname Twilight Twi Twily)
-(kind (1 unicode) ((3 13 end) (unicode pegasus)))
+(kind (1 unicorn) ((3 13 end) (unicorn pegasus)))
 (group mare)
 (colour (coat purple)
 	(mane (purple blue violet pink))

@@ -1,0 +1,8 @@
+(name (en "Lightning Dust"))
+(kind pegasus)
+(group mare)
+(colour (coat (. turquoise cyan teal))
+	(mane (. amber orange))
+	(eye (. amber orange)))
+(cutie lightning star)
+(appearance (3 (focus 7)))
